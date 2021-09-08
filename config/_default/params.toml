@@ -1,9 +1,9 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Noth"
+title = "noth"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
+titleAddition = "Passwordless authentication server"
 description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
 
 ## Open Graph
@@ -18,23 +18,23 @@ twitterCreator = "@henkverlinde"
 
 ## JSON-LD
 # schemaType = "Person"
-schemaType = "Organization"
-schemaName = "Doks"
-schemaAuthor = "Henk Verlinde"
-schemaAuthorTwitter = "https://twitter.com/henkverlinde"
-schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
-schemaAuthorGitHub = "https://github.com/h-enk"
-schemaLocale = "en-US"
-schemaLogo = "logo-doks.png"
-schemaLogoWidth = 512
-schemaLogoHeight = 512
-schemaImage = "doks.png"
-schemaImageWidth = 1280
-schemaImageHeight = 640
-schemaTwitter = "https://twitter.com/getdoks"
-schemaLinkedIn = ""
-schemaGitHub = "https://github.com/h-enk/doks"
-schemaSection = "blog"
+#schemaType = "Organization"
+#schemaName = "Doks"
+#schemaAuthor = "Henk Verlinde"
+#schemaAuthorTwitter = "https://twitter.com/henkverlinde"
+#schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
+#schemaAuthorGitHub = "https://github.com/noth-io"
+#schemaLocale = "en-US"
+#schemaLogo = "logo-doks.png"
+#schemaLogoWidth = 512
+#schemaLogoHeight = 512
+#schemaImage = "doks.png"
+#schemaImageWidth = 1280
+#schemaImageHeight = 640
+#schemaTwitter = "https://twitter.com/getdoks"
+#schemaLinkedIn = ""
+#schemaGitHub = "https://github.com/noth-io"
+#schemaSection = "blog"
 
 ## Sitelinks Search Box
 siteLinksSearchBox = false
