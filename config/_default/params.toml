@@ -3,8 +3,8 @@
 ## Homepage
 title = "noth"
 titleSeparator = "-"
-titleAddition = "Passwordless authentication server"
-description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+titleAddition = "Modern identity provider"
+#description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
 
 ## Open Graph
 images = ["doks.png"]
